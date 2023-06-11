@@ -1,1 +1,6 @@
 # NDN
+Named Data Networking (NDN) is a next-generation internet architecture that proposes a fundamental shift in how data is accessed and transmitted over computer networks. Instead of the traditional IP address-based communication, NDN focuses on content-based communication.
+In NDN, data is assigned names, similar to how URLs are used on the current internet. This allows users to directly express their interest in specific data or content rather than specifying a particular location or IP address. Routers in the network use these content names to forward interest packets and retrieve the corresponding data from the network.
+The fundamental concept in NDN is the idea of named data instead of the traditional host-centric model. This approach has several advantages, including inherent data caching, data security through digital signatures, efficient content distribution, and improved support for multicast and mobility.
+NDN aims to overcome some of the challenges faced by the current internet architecture, such as scalability, security vulnerabilities, and content distribution inefficiencies. It has the potential to revolutionize how information is accessed, shared, and consumed on the internet, providing a more efficient and flexible framework for data communication.
+My target is to make the internet safer and secure.
